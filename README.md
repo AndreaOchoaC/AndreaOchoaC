@@ -1,14 +1,16 @@
-# 🦕 Andrea Ochoa Córdova (ella/she/her) | Física --UNAM
-Physicist | Earth Science Masters Student | Digital abilities coach | Science communicator
+# 🦕 Andrea Ochoa Córdova | Física --UNAM
+Physicist | Earth Science Masters Student | Digital abilities coach | Science communicator |
 
 # ☀️ About Me:
-✨ Estudiante de la Maestría en Ciencias de la Tierra | Ciencias espaciales 🛰️
+✨ Estudiante de la Maestría en Ciencias de la Tierra | Ciencias espaciales 🛰️ | ella/she/her
 
 💻 Enfoque: Análisis de datos de misiones espaciales, datos en gran volumen. IDL y Python
 
 🖱️ Coach de habilidades digitales (Python, GSuite, Diseño de videojuegos con Roblox Studio)
 
 👩🏽‍🔬 Comunicadora de ciencia 
+
+Idiomas: 🇲🇽 🇬🇧 🇸🇪
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrea-ochoa-cordova-45b634100/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrea_ochoa@ciencias.unam.mx) 
